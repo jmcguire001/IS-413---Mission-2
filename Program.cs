@@ -2,7 +2,7 @@
 //By Jacob McGuire, Section 002
 
 //Declare the namespace
-using IS_413___Mission_2;
+using IS_413___Mission__2;
 
 //Create the class
 internal class Program
